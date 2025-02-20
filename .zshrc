@@ -110,7 +110,5 @@ alias gc="git clone"
 alias ktb="ktoolbox"
 alias ktbd="ktoolbox download-post"
 alias pipact="source ~/Documents/Virtual/bin/activate"
-alias nekoHi="z /neko/Pictures/Image/Hentai\ Image"
-alias IntS="z /sdcard"
 
 eval "$(zoxide init zsh)"
